@@ -1,1 +1,1 @@
-# BAE-Java
+# Example solutions to Java exercises
